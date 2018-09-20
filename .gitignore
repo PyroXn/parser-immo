@@ -1,0 +1,6 @@
+out/
+venv/
+sheets.googleapis.com-python.json
+client_secret_290983420794-u4mdodpe6a0u84sd424ol5v20873me96.apps.googleusercontent.com.json
+*.iml
+/.idea
